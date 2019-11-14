@@ -1,1 +1,1 @@
-# Exercise03XX_InheritanceGameV2
+# Exercise03XX Inheritance Game V2
